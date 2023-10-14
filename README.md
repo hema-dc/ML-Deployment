@@ -1,4 +1,4 @@
-# MLDeployment
+# ML Deployment at Digital Catapult
 
 ML Deployment - the process of deploying an AI/ML model from PoC to Production
 
