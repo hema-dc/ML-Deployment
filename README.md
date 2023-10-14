@@ -13,7 +13,7 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
       * The requirements, goals and objectives
       * Understand the AI/ML use case(s)
       * Understand the current infrastructure requirements
-      * Understand the deployment expectations
+      * Understand the deployment expectations (Budget, timescales, resources)
    
    Assess
       * The current AI/ML model
@@ -42,7 +42,7 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
       * The requirements, goals and objectives
       * Understand the AI/ML use case(s) and their connectivity to organisational strategy
       * Understand the current infrastructure requirements
-      * Understand the deployment expectations
+      * Understand the deployment expectations (Budget, timescales, resources)
    
    Assess
       * The current AI/ML model
@@ -75,7 +75,4 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 5. [ML Monitoring and Observability](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Observability.md)
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
