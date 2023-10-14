@@ -5,6 +5,9 @@ MLOps stands for Machine Learning Operations. MLOps is a core function of Machin
 ![image](https://github.com/hema-dc/MLDeployment/assets/93590728/10a43c23-b19e-4407-b6c1-96a95518d63f)
 
 # Key Offerings
+
+![image](https://github.com/hema-dc/MLDeployment/assets/93590728/a85fd0f6-5c6f-4260-82b4-fe657e7db256)
+
 ## Startups
 1. Understanding their AI/ML use case and how it connects to their organisational strategy
 2. Assess their current AI/ML model
