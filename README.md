@@ -29,4 +29,4 @@ MLOps stands for Machine Learning Operations. MLOps is a core function of Machin
 # Topics Covered
 MLOps 
 MLOps Tools
-[ML Monitoring and Observability](https://github.com/hema-dc/MLDeployment/Observability.md)
+[ML Monitoring and Observability](https://github.com/hema-dc/MLDeployment/blob/main/Observability.md)
