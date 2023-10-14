@@ -28,6 +28,6 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 8. Assess skills availability in the organisation to be able to suggest the right deployment option
 
 # Topics Covered
-MLOps 
-MLOps Tools
-[ML Monitoring and Observability](https://github.com/hema-dc/MLDeployment/blob/main/Observability.md)
+1. MLOps 
+2. MLOps Tools
+3. [ML Monitoring and Observability](https://github.com/hema-dc/MLDeployment/blob/main/Observability.md)
