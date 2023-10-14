@@ -28,12 +28,13 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 3. Plan / Design
       * Design the potential deployment pipeline
       * Plan the deployment strategy
+      * Plan the metrics to be monitored
 4. Execute
       * Deploy the model
       * Review the deployment strategy
 5. Evaluate / Review
-      * Monitor the model
-      * Observability
+      * Monitor the metrics of the model
+      * Observability - Model health, Data health and Service health
 
 ## Large Organisations
 1. Gather / Assess 
@@ -60,12 +61,13 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 3. Plan / Design
       * Design the potential deployment pipeline
       * Plan the deployment strategy
+      * Plan the metrics to be monitored
 4. Execute
       * Deploy the model
       * Review the deployment strategy
 5. Evaluate / Review
-      * Monitor the model
-      * Observability
+      * Monitor the metrics of the model
+      * Observability - Model health, Data health and Service health
 
 # Topics Covered
 1. ML Deployment
