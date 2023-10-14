@@ -3,3 +3,7 @@ MLOps stands for Machine Learning Operations. MLOps is a core function of Machin
 
 ![image](https://github.com/hema-dc/MLDeployment/assets/93590728/f3ff8528-1308-4172-a720-99a1403e7aa1)
 
+| Column 1      | Column 2      |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
