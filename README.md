@@ -68,7 +68,7 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 # Topics Covered
 1. ML Deployment
 2. [Deployment Strategies](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Strategies.md)
-3. MLOps 
+3. [MLOps](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/MLOps.md) 
 4. MLOps Tools
 5. [ML Monitoring and Observability](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Observability.md)
 
