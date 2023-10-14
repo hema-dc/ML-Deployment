@@ -6,12 +6,18 @@ MLOps stands for Machine Learning Operations. MLOps is a core function of Machin
 
 # Key Offerings
 Startups
-1. Assessment of their current AI/ML model and data
-2. Understanding the use case
+1. Understanding their AI/ML use case and how it connects to their organisational strategy
+2. Assess their current AI/ML model
+3. Assess Data dependencies
+      * What is the size of the current dataset?
+      * Where will the data for production come from?
+4. Assess the maturity of their code
+5. Understanding their ML deployment expectations
 
 Large Organisations
-1. Understanding their AI/ML use case
-2. Assessing the organisation's current vs past AI/ML models
-3. Assessing Data and dependencies
+1. Understanding their AI/ML use case and how it connects to their organisational strategy
+2. Assess their current AI/ML model
+3. Assess the organisation's current past AI/ML models (if any) in production
+4. Assess Data and dependencies
    
 # ML Monitoring vs ML Observability
