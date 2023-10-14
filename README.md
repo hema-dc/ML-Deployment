@@ -10,7 +10,7 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 1. Gather / Assess 
 
    Gather
-      * The requirements
+      * The requirements, goals and objectives
       * Understand the AI/ML use case(s)
       * Understand the current infrastructure requirements
       * Understand the deployment expectations
@@ -39,7 +39,7 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 1. Gather / Assess 
 
    Gather
-      * The requirements
+      * The requirements, goals and objectives
       * Understand the AI/ML use case(s) and their connectivity to organisational strategy
       * Understand the current infrastructure requirements
       * Understand the deployment expectations
@@ -48,6 +48,8 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
       * The current AI/ML model
       * Past AI/ML model (if any) already in production
       * The maturity of the code
+      * The MLOps Maturity level
+      * The Scalability requirements
       * The current available infrastructure
       * The current data pipeline (if any)
       * The Data dependencies
