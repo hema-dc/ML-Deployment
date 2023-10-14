@@ -25,5 +25,3 @@ MLOps stands for Machine Learning Operations. MLOps is a core function of Machin
 6. Understanding their ML deployment expectations
 7. Assess infrastructure requirements
 8. Assess skills availability in the organisation to be able to suggest the right deployment option
-   
-# ML Monitoring vs ML Observability
