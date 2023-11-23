@@ -3,7 +3,7 @@
 ML Deployment - the process of deploying an AI/ML model from PoC to Production
 
 # Key Offerings
-<img width="550" alt="image" src="https://github.com/hema-dc/ML-Deployment/assets/93590728/62524203-9c24-4475-b81a-c9679b46a341">
+<img width="550" alt="image" src="https://github.com/hema-dc/ML-Deployment/assets/93590728/9ff383ea-12b0-43a2-88c7-98a1537093b9">
 
 ## Startups
 1. Gather / Assess 
