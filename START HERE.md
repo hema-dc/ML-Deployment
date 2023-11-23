@@ -72,12 +72,13 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
 1. Gathering Requirements
 2. Assessing the organisation's ML Readiness - [Maturity Assessment](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Maturity%20Assessment.md)
 3. [Best Practices](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Best%20Practices.md)
-4. ML Deployment
-5. [Deployment Strategies](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Strategies.md)
-6. [MLOps](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/MLOps.md) 
-7. MLOps Tools
-8. [ML Monitoring and Observability](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Observability.md)
-9. [MLOps Skills](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/MLOps%20Skills.md)
+4. Horizon Scan of available MLOps Tools
+5. ML Deployment
+6. [Deployment Strategies](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Strategies.md)
+7. [MLOps](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/MLOps.md) 
+8. MLOps Tools
+9. [ML Monitoring and Observability](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/Observability.md)
+10. [MLOps Skills](https://github.com/hema-dc/ML-Deployment/blob/main/Offerings/MLOps%20Skills.md)
 
 
 
