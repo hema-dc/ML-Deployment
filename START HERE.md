@@ -1,4 +1,4 @@
-# ML Deployment at Digital Catapult
+# Effective ML Deployment
 
 ML Deployment - the process of deploying an AI/ML model from PoC to Production
 
@@ -28,7 +28,7 @@ ML Deployment - the process of deploying an AI/ML model from PoC to Production
       * Design the potential deployment pipeline
       * Plan the deployment strategy
       * Plan the metrics to be monitored
-4. Execute
+4. Implement
       * Deploy the model
       * Review the deployment strategy
 5. Evaluate / Review
